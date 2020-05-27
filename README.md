@@ -1,4 +1,4 @@
-# GitHub Pages Personal Bio
+# GitHub Pages
 
 ## Instructions
 
